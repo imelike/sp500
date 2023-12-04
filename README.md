@@ -1,2 +1,2 @@
 
-sp500 - https://sp500-streamlit.herokuapp.com/
+sp500 - https://imelike-sp500-app.herokuapp.com/
