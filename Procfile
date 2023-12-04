@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run sp500-app.py
+web: gunicorn gettingstarted.wsgi && streamlit run sp500-app.py
